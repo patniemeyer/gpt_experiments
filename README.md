@@ -13,10 +13,9 @@ This is a work in progress and any [feedback](https://pat.net) is welcome.
 
 ### gpt_grid
 
-gpt_grid generates a configurable dataset of random grids of varying dimensions and
-number of colored squares, followed by a compact string 
-description of the grid that can be learned.  The dataset includes code to validate the
-test set output and report acurracy on the test set.
+gpt_grid generates a configurable dataset of random grids of varying dimension and
+number of colored squares, followed by a compact string description that can be learned.
+The dataset includes code to validate the test set output and report acurracy.
 
 <table>
 <tr>
